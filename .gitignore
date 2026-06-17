@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.docx
+!samples/**/*.docx
+data/state/*.json
+.DS_Store
