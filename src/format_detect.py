@@ -29,7 +29,7 @@ import re
 
 KNOWN_UNICODE_TIBETAN_FONTS = {
     "Jomolhari", "Microsoft Himalaya", "Noto Sans Tibetan",
-    "Tibetan Machine Uni", "Qomolangma-Uchen",
+    "Tibetan Machine Uni", "Qomolangma-Uchen", "MonlamUniOuChan2",
 }
 
 PECHA_ASPECT_RATIO_THRESHOLD = 3.0  # width:height ratio above this suggests pecha format
@@ -37,8 +37,12 @@ PECHA_ASPECT_RATIO_THRESHOLD = 3.0  # width:height ratio above this suggests pec
 # Unicode block range for Tibetan script: U+0F00 to U+0FFF
 TIBETAN_UNICODE_RANGE = (0x0F00, 0x0FFF)
 
-# Unicode blocks covering common CJK ranges (CJK Unified Ideographs + Extension A)
-CJK_UNICODE_RANGES = [(0x4E00, 0x9FFF), (0x3400, 0x4DBF)]
+# Unicode blocks covering common CJK ranges:
+# CJK Unified Ideographs, Extension A, CJK Symbols and Punctuation
+# (The Symbols block covers brackets like \u3008 \u3009 used as quotation marks
+# in Chinese liturgical texts — must be included to avoid density-heuristic
+# false positives on those characters.)
+CJK_UNICODE_RANGES = [(0x4E00, 0x9FFF), (0x3400, 0x4DBF), (0x3000, 0x303F)]
 
 
 def classify_page_geometry(page: fitz.Page) -> str:
@@ -110,6 +114,21 @@ def classify_document(pdf_path: str) -> dict:
     structure for the whole document. Each page's result also records the
     page-geometry classification (pecha/standard) since downstream stages
     branch on that independently of span-level results."""
-    # TODO: open with fitz.open(pdf_path), iterate pages,
-    # call classify_page_geometry and classify_span as appropriate
-    pass
+    doc = fitz.open(pdf_path)
+    pages = []
+    for page in doc:
+        geometry = classify_page_geometry(page)
+        spans = []
+        for block in page.get_text("dict")["blocks"]:
+            if "lines" not in block:
+                continue
+            for line in block["lines"]:
+                for span in line["spans"]:
+                    spans.append({
+                        "text": span.get("text") or "",
+                        "font": span.get("font", ""),
+                        "bbox": span.get("bbox"),
+                        "classification": classify_span(span),
+                    })
+        pages.append({"geometry": geometry, "spans": spans})
+    return {"pages": pages}
