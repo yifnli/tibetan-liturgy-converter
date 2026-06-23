@@ -1,0 +1,50 @@
+﻿Total gaps          : 254
+novel_needs_review  : 219
+
+=== Four keys currently in each novel_needs_review gap record ===
+  'layer': 'mandarin_homophonic'
+  'source': 'wylie'
+  'verse_ref': {'page_index': 1, 'verse_index': 0}
+  'status': 'novel_needs_review'
+
+=== What the reviewer sees in the .docx placeholder ===
+  '[NOVEL — HUMAN REVIEW REQUIRED — source: wylie]'
+  (verse_ref gives the page/verse location, but not the unresolved tokens)
+
+=== Reconstructing novel tokens from verse_results (debug mode) ===
+    (This re-tokenizes wylie and re-scans against empty tables to get all tokens.)
+    In practice the reviewer would need the populated tables to know *which*
+    tokens are novel.  With empty tables, ALL tokens are novel.
+
+Unique Wylie tokens across ALL verse-units (novel with empty tables): 444
+Sample of first 30 unique tokens:
+  '!'
+  '*'
+  'A'
+  'ABHIKENTSA'
+  'ABIKEKATE'
+  'AH'
+  'ALOKE'
+  'ARGHAM'
+  'ARTHA'
+  'BA'
+  'BAM'
+  'BAR'
+  'BE'
+  'BEKENDZE'
+  'BEN'
+  'BENDZA'
+  'BENZA'
+  'BENZE'
+  'BISHODHANI'
+  'BO'
+  'BON'
+  'BU'
+  'BUL'
+  'BUM'
+  'BUR'
+  'Bekandzeya.'
+  'CHA'
+  'CHAB'
+  'CHAK'
+  'CHAL'

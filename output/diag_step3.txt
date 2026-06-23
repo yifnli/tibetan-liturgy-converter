@@ -1,0 +1,374 @@
+﻿Verse-units with both wylie + mandarin_homophonic (from source): 91
+
+=== All Wylie -> mandarin_homophonic pairs ===
+[000]  wylie: 'DOR JE CHANG CHEN TI LO NA RO DANG  MAR PA MI LA CHÖ JE GAM PO PA'
+       homophonic: '多杰 羌千 帝洛 那诺倘 玛巴 ⽶拉 却戒 冈波巴'
+
+[001]  wylie: 'DÜ SUM SHE JA KÜN KHYEN KARMAPA  CHE SHI CHUNG GYE GYÜ PA DZIN NAM DANG'
+       homophonic: '度松 谢甲 衮千 噶玛巴 切息 冲给 举拔 仅南倘'
+
+[002]  wylie: 'DRI TAK TSAL SUM PAL DEN DRUKPA SOK  ZAB LAM CHAK GYA CHE LA NGA NYE PAY'
+       homophonic: '及⼤ 擦松 巴滇 ⽵巴梭 萨朗 恰嘉 切拉 阿涅贝'
+
+[003]  wylie: 'NYAM ME DRO GÖN DAKPO KAGYÜ LA SOL WA DEB SO KAGYÜ LAMA NAM'
+       homophonic: '酿每 卓衮 达波 噶举拉 梭哇 喋梭 噶举 喇嘛南'
+
+[004]  wylie: 'GYÜ PA DZIN NO NAM THAR JIN GYI LOB SHEN LOK GOM GYI KANG PAR SUNG PA SHIN'
+       homophonic: '举巴 仅挪 南踏 勤吉洛 贤洛 拱吉 冈巴 松巴⾏'
+
+[005]  wylie: 'ZE NOR KÜN LA CHAK SHEN ME PA DANG  TSE DIY DÖ TAK CHÖ PAY GOM CHEN LA'
+       homophonic: '瑟诺 衮拉 恰贤 没巴倘 测迪 堆踏 却贝 拱千拉'
+
+[006]  wylie: 'NYE KUR SHENPA ME PAR JIN GYI LOB MÖGÜ GOM GYI GOWOR SUNG PA SHIN'
+       homophonic: '涅固 贤巴 没巴 勤吉洛 昧举 拱吉 果窝 松巴⾏'
+
+[007]  wylie: 'MEN NGAK TER GO JE PAY LAMA LA GYÜN DU SOL WA DEB PAY GOM CHEN LA'
+       homophonic: '⾯阿 喋果 结贝 喇嘛拉 君读 梭哇 喋贝 拱千拉'
+
+[008]  wylie: 'CHÖ MIN MÖ GÜ KYE WAR JIN GYI LOB YENG ME GOM GYI NGÖ SHIR SUNG PA SHIN'
+       homophonic: '决民 昧举 给哇 勤吉洛 ⾔昧 拱吉 温昔 松巴⾏'
+
+[009]  wylie: 'GANG SHAR TOK PAY NGO WO SO MA DE MA CHÖ DE KAR JOK PAY GOM CHEN LA'
+       homophonic: '扛夏 ⾖贝 哦窝 梭玛喋 玛决 喋噶 久贝 拱千拉'
+
+[010]  wylie: 'GOM JA LO DANG DRAL WAR JIN GYI LOB  NAM TOK NGO WO CHÖ KUR SUNG PA SHIN'
+       homophonic: '拱甲 洛倘 札哇 勤吉洛 南⾖ 哦窝 却固 松巴⾏'
+
+[011]  wylie: 'CHI YANG MA YIN CHIR YANG CHAR WA LA       MA GAK ROL PAR CHAR WAY GOM CHEN LA'
+       homophonic: '记扬 玛吟 记扬 恰哇拉 玛噶 若巴 恰威 拱千拉'
+
+[012]  wylie: 'KHOR DE YER ME TOK PAR JIN GYI LOB KYE WA KUN TU YANG DAK LAMA DANG'
+       homophonic: '扩喋 耶没 ⾖巴 勤吉洛 给哇 衮读 扬达 喇嘛倘'
+
+[013]  wylie: 'DRAL ME CHÖ KYI PAL LA LONG CHÖ CHING   SA DANG LAM GYI YÖN TEN RAB DZOK NE'
+       homophonic: '札昧 却记 巴拉 隆诀京 萨倘 朗吉 元滇 拉昨内'
+
+[014]  wylie: 'DORJE CHANG GI GO PANG NYUR TOB SHOK'
+       homophonic: '多杰 羌吉 果庞 纽透修'
+
+[015]  wylie: 'NAMO GOUROU SHA KYA MOU NA YÉ ! NAMO GURU ŚHĀ KYA MUNA YE!'
+       homophonic: '南摩沽如夏嘉⽬拿耶'
+
+[016]  wylie: 'SANG GYE CHÖ DANG TSOK KYI CHOK NAM LA   JANG CHUB BAR DU DA NI KYAB SU CHI'
+       homophonic: '桑杰 确倘 措记 秋南啦 强秋 琶笃 达尼 迦素企'
+
+[017]  wylie: 'DAK GYI JIN SOK GYI PAY SO NAM KYI DRO LA PHEN CHIR SANG GYE DRUB PAR SHO'
+       homophonic: '達格謹搜吉⾙⾊南吉 卓啦遍企桑杰⽵巴修'
+
+[018]  wylie: 'SEM CHEN THAM CHE DE WA DANG DE WAI GYU DANG DEN PAR GYUR CHIK'
+       homophonic: '森间汤界 喋哇倘 喋威局倘 滇巴久记'
+
+[019]  wylie: 'DUG NGEL DANG DUG NGEL GYI GYU DANG DREL WAR GYUR CHIK'
+       homophonic: '笃雅倘 笃雅吉局倘 哲哇久记'
+
+[020]  wylie: 'DUG NGEL ME PAY DE WA DAM PA DANG MI DREL WAR GYUR CHIK'
+       homophonic: '笃雅梅悲 喋哇倘巴倘 ⽶哲⽡久记'
+
+[021]  wylie: 'NYE RING CHAG DANG NYI DANG DREL WAY TANG NYOM CHEN PO LA NE PAR GYUR CHIK'
+       homophonic: '涅仁洽汤 尼倘哲威 当纽千波喇 内巴久记'
+
+[022]  wylie: 'AH, KYE MÉ TONG PA NYI DANG TEN JUNG GI NANG WA GAK MÉ ZUNG JUK GYU MÉ TSUL'
+       homophonic: '阿 杰美东巴涅当定炯格 囊⽡嘎美荣久杰美策'
+
+[023]  wylie: 'RANG DÜN NAM KHAR CHÖ TRIN GYA TSÖ Ü RIN CHEN SENG TRI PÉ NYI DA WÉ TENG'
+       homophonic: '让登南夸秋珍嘉促卫 仁钦桑彻巴涅达沃当'
+
+[024]  wylie: 'TÖN PA TSUNG MÉ SHA KYA SEN GÉ NI SER GYI DOK CHEN TSEN DANG PE JÉ DEN'
+       homophonic: '敦巴聪美夏迦桑给呢 ⾊杰多坚灿当慧夏丹'
+
+[025]  wylie: 'CHÖ GÖ SUM SOL DOR JÉ KIL TRUNG SHUK   CHA YÉ SA NÖN CHAK GYA LEK KYANG SHING'
+       homophonic: '秋固森索多吉杰仲尤 ⾹益萨伦⾹嘉拉江⾹'
+
+[026]  wylie: 'CHA YÖN NYAM SHAK DÜ TSI LHUNG SHÉ NAM  SER GYI RI TAR ZI JI PAL BAR WA'
+       homophonic: '⾹云年雅德贼隆瑞南 ⾊杰热达热杰华巴⽡'
+
+[027]  wylie: 'YE SHE Ö ZER DRA WÉ KHA YING KHYAB  NYE WÉ SÉ GYÉ NE TEN CHUD RUK SOK'
+       homophonic: '耶西哦瑞扎卫夸样恰 涅沃这嘉内丹杰珠索'
+
+[028]  wylie: 'PHAK TSOK GYA TSÖ KHOR GYI YONG KOR SHYING    DREN PA TSAM GYI SI SHYI TA NYI LÉ'
+       homophonic: '帕措嘉促括吉永果样 占巴赞吉哲益塔尼类'
+
+[029]  wylie: 'NAM DROL DE WA CHOK GI PAL TSOL WA  KYAB KÜN DÜ PÉ DAK NYI CHEN POR SAL'
+       homophonic: '南卓得⽡巧格华作⽡ 嘉根第波达涅钦波萨'
+
+[030]  wylie: 'NYING JÉ CHEN PÖ TSÖ DEN NYIK MÉ SHYING ZUNG NÉ MÖN LAM CHEN PO NGA GYA TAB'
+       homophonic: '酿杰钦布作丹涅美样 荣内门兰钦波阿嘉达'
+
+[031]  wylie: 'PE KAR TAR NGAK TSEN TÖ CHIR MI DOK TÖN PA TUK JÉ CHEN LA CHAK TSAL LO'
+       homophonic: '巴嘎达阿灿图协么多 敦巴特杰坚拉⾹擦洛'
+
+[032]  wylie: 'DAK SHYEN GO SUM GÉ TSOK LONG CHÖ CHÉ    KUN ZANG CHÖ PÉ TRIN DU MIK NÉ BUL'
+       homophonic: '达严果森给措隆秀具 根让秋波珍德么内波'
+
+[033]  wylie: 'TOK MÉ NÉ SAK DIK TUNG MA LÜ PA NYING NÉ GYÖ PA DRAK PÖ SO SOR SHAK'
+       homophonic: '托美内萨德东玛利巴 酿内久巴扎布索索夏'
+
+[034]  wylie: 'PAK DANG SO SÖ KYE WÖ GE WA NI DÜ SUM SAK LA JE SU YI RANG NGO'
+       homophonic: '帕当索苏杰悟给⽡呢 第森萨拉吉⾊耶让哦'
+
+[035]  wylie: 'ZAB CHING GYA CHÉ CHÖ KYI KHOR LÖ TSUL  CHOK CHUR GYÜN MI CHE PAR KOR DU SOL'
+       homophonic: '撒江嘉切秋杰括路策 秀杰晋么恰巴果德索'
+
+[036]  wylie: 'KHYÖ NI NAMKHA TABÜ YESHE KU DÜ SUM POGYUR MEPAR SHYUK MÖ KYI'
+       homophonic: '切呢南夸达卫耶西格 第森颇杰美巴尤莫杰'
+
+[037]  wylie: 'DUL JÉ NANG NGOR KYÉ JIK TSUL TÖN KYANG  TRUL PÉ ZU KU TAK TU NANG WAR DZÖ'
+       homophonic: '德旭囊哦杰杰策敦江 哲波热格达德囊⽡作'
+
+[038]  wylie: 'DAK GI DÜ SUM SAK PÉ GÉ TSOK KYI KHA KHYAB DRO WA KÜN LA PEN LE DU'
+       homophonic: '达给第森萨波给措吉 夸恰卓⽡根拉攀拉德'
+
+[039]  wylie: 'CHÖ KYI GYAL PO TAK TU NYÉ JÉ CHING  CHÖ JÉ GYAL WÉ GO PANG TOB PAR SHOK'
+       homophonic: '秋杰嘉波达德尼协江 秋杰嘉沃果庞托巴秀'
+
+[040]  wylie: 'DAK CHAK NYIK MÉ DRO WA GÖN MÉ NAM    TUK JÉ LHAK PAR ZUNG WÉ KA DRIN LÉ'
+       homophonic: '达嘉涅美卓⽡衮美南 特吉拉巴荣沃⽠珍类'
+
+[041]  wylie: 'SHYING DANG DÜ DIR RIN CHEN NAM SUM GYI  NANG WA JIN YÉ KHYÉ KYI TRIN LÉ NYI'
+       homophonic: '样当第德仁钦南森杰 囊⽡杰涅秋杰陈类涅'
+
+[042]  wylie: 'DE CHIR KYAB CHOK TSUNG MÉ CHIK PU RU   YI CHÉ DE PÉ NYING NÉ SOL DEB NA'
+       homophonic: '得协嘉巧聪美吉波热 耶齐达贝酿内索得那'
+
+[043]  wylie: 'NGÖN GYI DAM CHA CHEN PO MA NYEL WAR   CHANG CHUB BAR DU TUK JÉ JE DZIN DZÖ'
+       homophonic: '温杰丹嘉钦波玛涅⽡ ⾹确⽡德特吉吉怎作'
+
+[044]  wylie: 'LAMA TÖN PA CHOM DEN DÉ/  DE SHYIN SHEK PA/  DRA CHOM PA/  YANG DAK PAR/   DZOK PÉ SAN GYE/  PAL GYAL WA/  SHA KYA TUB PA LA/  CHAK TSAL LO/  CHÖ DO/  KYAB SU CHI O TÉ YA TA  OM MOU NÉ MOU NÉ MAHA MOU NA YÉ SOHA TE YA TA OM MUNÉ MUNÉ MAHA MU NA YÉ SOHA OM MOU NÉ MOU NÉ MAHA MOU NA YÉ SOHA OM MUNÉ MUNÉ MAHA MU NA YÉ SOHA'
+       homophonic: '喇嘛敦巴 炯丹第 得印夏巴 扎炯巴 样达巴 作波桑吉 华嘉⽡ 夏迦特巴拉 ⾹擦洛 秋多嘉森切哦 达雅塔 嗡牟尼牟尼玛哈牟呐耶索哈 嗡牟尼牟尼玛哈牟呐耶索哈'
+
+[045]  wylie: 'TÖN PÉ KU LÉ/  YE SHE KYI Ö ZER/  NA TSOK PÉ/  NANG WA CHEN PÖ/  DAK DANG SEM CHEN TAM CHÉ KYI/  DRIB PA TAM CHÉ/  SAL SHYING'
+       homophonic: '敦波格类 耶西杰 哦瑞那措波 囊⽡钦布 达当森 坚檀嘉杰 哲巴檀嘉萨样'
+
+[046]  wylie: 'TEK PA CHEN PÖ/  LAM GYI YÖN TEN/   TSUL SHYIN DU KYÉ TÉ/   CHIR MI DOK PÉ/ SA NÖN PAR GYUR'
+       homophonic: '特巴钦布 兰杰 云丹 策印德吉得 协么多波萨伦巴 久'
+
+[047]  wylie: 'DE SHEK SÉ CHÉ KÜN GYI TUK KYÉ DANG DZE PA MÖN LAM KHYEN TSÉ NÜ PÉ TSUL'
+       homophonic: '得夏⾊杰昆格图杰当 则巴盟琅肯则⼥贝措'
+
+[048]  wylie: 'LA MÉ YE SHE GYU TRUL CHI DRA WA DE DRA KHO NAR DAK SOK GYUR WAR SHOK'
+       homophonic: '喇美耶些久促其札⽡ 得扎括那达索杰⽡秀'
+
+[049]  wylie: 'PRIÈRE DE LONGUE VIE POUR SA SAINTETÉ LE DALAÏ LAMA LONG LIFE PRAYER FOR HIS HOLINESS THE DALAI LAMA'
+       homophonic: '達賴尊者⾧壽祈請⽂'
+
+[050]  wylie: 'GANG RE RA WE KOR WAI ZHING KHAM DIR PEN DANG DE WA MA LU JUNG WAI NE'
+       homophonic: '康⽇惹威果威星康迪 ⽚堂碟⽡瑪呂炯威内'
+
+[051]  wylie: 'CHEN RE ZIG WANG TEN DZIN GYA TSO YI SHAB PE SI TAY BAR DU TEN GYUR CHIK'
+       homophonic: '堅瑞希王殿津嘉措宜 夏⾙希推帕突典具吉'
+
+[052]  wylie: 'PRIÈRE POUR LA LONGUE VIE DE SA SAINTETÉ LE KARMAPA LONG LIFE PRAYER FOR HIS HOLINESS THE GYALWANG KARMAPA'
+       homophonic: '尊胜噶玛巴长寿祈请⽂'
+
+[053]  wylie: "GYAL KUN NYING JE'I RANG ZUK KAR MA PA      GYAL KUN TRIN LE CHIK DU KAR MA PA"
+       homophonic: '给衮宁杰攘⽵噶玛巴 给衮真雷记度噶玛巴'
+
+[054]  wylie: 'GYAL KUN DUNG TSOB WANG KUR KAR MA PA OR GYEN DRO DUL TRIN LE SHAB TEN SOL'
+       homophonic: '给衮度措旺固噶玛巴 哦坚卓度真雷夏滇梭'
+
+[055]  wylie: 'PRIÈRE DE LONGUE VIE POUR SON ÉMINENCE TAÏ SITU RINPOCHÉ LONG LIFE PRAYER FOR HIS EMINENCE TAI SITU RINPOCHE'
+       homophonic: '尊者⼤司徒仁波切长寿祈请⽂'
+
+[056]  wylie: 'PE MAY GYAL TSAB TEN DANG DRO WAY GON   MA ONG SANG GYE GYAL TSAB MA PHAM PA'
+       homophonic: '培美给擦滇倘卓威贡 玛嗡桑杰给擦玛发巴'
+
+[057]  wylie: 'TA YI SI TU PE MA DON YO KYI SHAB PE TEN CHING DZE TRIN GYE GYUR CHIK'
+       homophonic: '达宜⼣独培玛洞元记 夏佩滇京哲真杰久记'
+
+[058]  wylie: 'PRIÈRE DE LONGUE VIE POUR SON ÉMINENCE JAMGON KONGTRUL RINPOCHÉ LONG LIFE PRAYER FOR HIS EMINENCE JAMGON KONGTRUL RINPOCHE'
+       homophonic: '尊者蒋贡康楚仁波切长寿祈请⽂'
+
+[059]  wylie: 'TA YE MIK MAY TSE WAY TER CHEN PO NAM PAR NANG DZE RIK DROL TRUL PAY KU'
+       homophonic: '他耶弥美测威喋千波 南巴囊哲⽇卓处贝固'
+
+[060]  wylie: 'JAM GON LO DRO CHO KYI NYI MA YI SHAB PE TEN CHING DZE TRIN GYE GYUR CHIG'
+       homophonic: '强贡洛卓却记尼玛宜 夏培滇京则贞杰久记'
+
+[061]  wylie: 'PRIÈRE DE LONGUE VIE POUR LE QUATRIÈME JAMGON KONGTRUL, INTITULÉ “BRÈVE MÉLODIE DU NECTAR D’IMMUABILITÉ” THE LONG LIFE PRAYER FOR THE FOURTH JAMGON KONGTRUL, CALLED: “THE SHORT MELODY OF THE NECTAR OF IMMUTABILITY”'
+       homophonic: '第四世蒋贡康楚仁波切长寿祈请⽂ 名为 不变⽢露之短歌'
+
+[062]  wylie: 'OM DE LEK SU GYUR CHIK'
+       homophonic: '嗡 得雷苏久记'
+
+[063]  wylie: 'GYAL WAY WANG PO PAL DEN KAR MA PAY SANG SUM TRIN LE JE PO ME JUNG WA'
+       homophonic: '给威旺波巴滇噶玛贝 桑松真雷杰波每久哇'
+
+[064]  wylie: 'JAM GON LO DRO CHO KYI NYI MA YI ZHAB PE TEN CHING DZE TRIN GYE GYUR CHIK'
+       homophonic: '强贡洛卓却记尼玛宜 札培滇京哲贞杰久记'
+
+[065]  wylie: 'CHOK CHU DU SUM GYAL WAI TUK KYE DANG CHO NYI NAM PAR DAK PAI DEN TOB KYI'
+       homophonic: '措秋度松给威度耶倘 却尼南巴达培滇多记'
+
+[066]  wylie: 'NAM DAK MON PAY DEN TSIK JI SHIN DU CHOK GYI TRUL KUI ZHAB PE TEN GYUR CHIK'
+       homophonic: '南达盟贝滇次吉⾏度 措吉处固札培滇久记'
+
+[067]  wylie: 'PRIÈRE DE LONGUE VIE POUR SON ÉMINENCE GYALTSAB RINPOCHÉ LONG LIFE PRAYER FOR HIS EMINENCE GYALTSAB RINPOCHE'
+       homophonic: '尊者嘉察仁波切长寿祈祷⽂'
+
+[068]  wylie: 'SI DAND ZHI WAY PAL GYI TSE MO LE PHUL JUNG SANG WAI DAG POI NAM TRUL CHOK'
+       homophonic: '⼣倘⾃威巴吉册昧雷 噗久桑威达波南处巧'
+
+[069]  wylie: 'GYAL TSAB DRAK PA MIN GYUR GO CHA YI   SHAB PE TEN CHING DZE TRIN GYE GYUR CHIK'
+       homophonic: '给擦札巴明久拱恰宜 夏培滇京哲珍杰久记'
+
+[070]  wylie: 'PRIÈRE POUR LA LONGUE VIE DE KARMAPA ET SES FILS DE COEUR LONG LIFE PRAYER FOR KARMAPA AND HIS HEART SONS.'
+       homophonic: '噶舉上師⾧壽祈請⽂'
+
+[071]  wylie: 'DE CHEN TSOK KYI KHOR LO TAK ROL PA DU SUM GYAL WAY TER CHEN KAR MA PA'
+       homophonic: '碟千措吉擴樓⼤柔哇 度松交為碟谦噶瑪巴'
+
+[072]  wylie: 'YAP SE GYU PAR CHE PAY SI TSO DIR KAL PA KAL PAY BAR DU ZHAP TEN SOL'
+       homophonic: '雅虽巨巴皆巴西湊地 ⾼巴⾼⾙巴度夏典叟'
+
+[073]  wylie: 'GANG GYI ZAP SANG SUNG GYI SANG WA LA THO SAM DRUP PAY NYING POR JE PA YI'
+       homophonic: '康給薩桑松各桑哇拉 特三住巴寧柏切巴以'
+
+[074]  wylie: 'PONG DANG LOK PAY DE NAM THAM CHE NI YAR GYI CHU WO TA BUR GYE GYUR CHIK PRIÈRE GÉNÉRALE POUR LA LONGUE VIE DU LAMA A GENERAL PRAYER FOR THE LAMAS’ LONG LIFE'
+       homophonic: '崩當樓⾙碟南坦傑尼 雅吉曲沃⼤布給巨吉 上師⾧壽祈請⽂'
+
+[075]  wylie: 'LAMA KU KHAM ZANG WAR SOL WA DEP CHOK TU KU TSE RING LA SOL WA DEP'
+       homophonic: '喇嘛故康桑哇叟哇碟 秋度故翠玲拉叟哇碟'
+
+[076]  wylie: 'TRIN LE DAR ZHING GYE LA SOL WA DEP LA MA DANG DRAL WA ME PAR JIN GYI LOP'
+       homophonic: '欽雷塔⾏給拉叟哇碟 喇嘛當昭哇美巴欽吉樓'
+
+[077]  wylie: 'PAL DEN LA MA ZHAP PE TEN PA DANG KHA NYAM YONG LA DE KYI JUNG WA DANG'
+       homophonic: '包典拉美夏⾙典巴當 卡娘永拉碟吉炯哇當'
+
+[078]  wylie: 'DAK ZHEN MA LU TSOK SAK DRIP JANG NE   NYUR DU SANG GYE SA LA GO PAR SHOK DÉDICACE DE MÉRITES DEDICATION PRAYER'
+       homophonic: '⼤現瑪陸措薩之將內 紐度桑給薩拉各巴修 回向⽂'
+
+[079]  wylie: 'JAM PAL PA WO JI TAR KHEN PA DANG KUN TU ZANG PO DE YANG DE ZHIN TE'
+       homophonic: '江包巴我其⼤千巴當 棍度桑博帖揚帖欣喋'
+
+[080]  wylie: 'DE DAK KUN GYI JE SU DAK LOP CHING GE WA DI DAK THAM CHE RAP TU NGO'
+       homophonic: '帖⼤棍吉傑速達樓淨 給哇迪⼤坦界惹度諾'
+
+[081]  wylie: 'SAN GYE KU SUM NYE PAY JIN LAP DANG CHO NYI MIN GYUR DEN PAY JIN LAP DANG'
+       homophonic: '桑給固松涅⾙欽拉當 確尼⽶巨滇⾙欽拉當'
+
+[082]  wylie: 'GYEN DUN MI CHE DUN PAY JIN LAP KYI JI TAR NGO WA MON LAM DRUP GYUR CHIK'
+       homophonic: '給敦⽶切敦⾙欽拉吉 其⼤諾哇⾨朗⽵巨吉'
+
+[083]  wylie: 'SÖ NAM DI YI TAM CHE ZIK PA NYI TOB NE NYE PAY DRA NAM PAM JE NE'
+       homophonic: '索南迪宜汤界息巴尼 透内涅贝札南潘且内'
+
+[084]  wylie: 'KYE GA NA CHI BA LAP TRUK PA YI SI PAY TSO LE DRO WA DROL WAR SHOK'
+       homophonic: '界噶拿企巴拉处巴宜 ⼣贝措雷卓哇卓哇修'
+
+[085]  wylie: 'DU ZHI LE GYAL GYAL WAY TRIN LE PA KAR MA PA TEN TEN PAY NYING PO DI'
+       homophonic: '度西雷交交為欽雷巴 噶瑪巴典典⾙寧柏第'
+
+[086]  wylie: 'COK THAR KUN KHAP KHAP CHING GYUN MI CHE   TAK PAR RAP PHEL PHEL WAY TASHI SHO'
+       homophonic: '秋塔滾恰恰京均⽶切 ⼤巴惹佩佩為扎西修 发愿⽂'
+
+[087]  wylie: 'JANG CHUB SEM CHOK RIN PO CHE MA KYE PA NAM KYE GYUR CHIK'
+       homophonic: '⾹确森巧仁波切 玛吉巴南杰杰吉'
+
+[088]  wylie: 'KYE PA NYAM PA MAY PA DANG GONG NE GONG DU PHEL WAR SHOK'
+       homophonic: '吉巴年巴美巴倘 贡内贡德佩⽡秀 吉祥偈'
+
+[089]  wylie: 'MI GYUR LHÜN PO KU YI TASHI SHOG YEN LAG DRUG CHU SUNG GE TASHI SHOG'
+       homophonic: '⽶久 混波 固宜 札西修 耶喇 ⽵久 孙吉 札西修'
+
+[090]  wylie: 'THA DREL DRI ME THUG KI TASHI SHOG   GYAL WAY KU SUNG THUG KI TASHI SHOG'
+       homophonic: '踏杰 初美 突吉 札西修 给维 固松 突吉 札西修'
+
+
+=== Token-level view (for seeding lookup table) ===
+    Note: RD source groups multiple Wylie words into one Chinese group.
+    Manual authorship may be needed to split correctly per syllable.
+
+WYLIE                                               MANDARIN_HOMOPHONIC
+--------------------------------------------------------------------------------
+DOR JE CHANG CHEN TI LO NA RO DANG  MAR PA MI LA    多杰 羌千 帝洛 那诺倘 玛巴 ⽶拉 却戒 冈波巴
+DÜ SUM SHE JA KÜN KHYEN KARMAPA  CHE SHI CHUNG G    度松 谢甲 衮千 噶玛巴 切息 冲给 举拔 仅南倘
+DRI TAK TSAL SUM PAL DEN DRUKPA SOK  ZAB LAM CHA    及⼤ 擦松 巴滇 ⽵巴梭 萨朗 恰嘉 切拉 阿涅贝
+NYAM ME DRO GÖN DAKPO KAGYÜ LA SOL WA DEB SO KAG    酿每 卓衮 达波 噶举拉 梭哇 喋梭 噶举 喇嘛南
+GYÜ PA DZIN NO NAM THAR JIN GYI LOB SHEN LOK GOM    举巴 仅挪 南踏 勤吉洛 贤洛 拱吉 冈巴 松巴⾏
+ZE NOR KÜN LA CHAK SHEN ME PA DANG  TSE DIY DÖ T    瑟诺 衮拉 恰贤 没巴倘 测迪 堆踏 却贝 拱千拉
+NYE KUR SHENPA ME PAR JIN GYI LOB MÖGÜ GOM GYI G    涅固 贤巴 没巴 勤吉洛 昧举 拱吉 果窝 松巴⾏
+MEN NGAK TER GO JE PAY LAMA LA GYÜN DU SOL WA DE    ⾯阿 喋果 结贝 喇嘛拉 君读 梭哇 喋贝 拱千拉
+CHÖ MIN MÖ GÜ KYE WAR JIN GYI LOB YENG ME GOM GY    决民 昧举 给哇 勤吉洛 ⾔昧 拱吉 温昔 松巴⾏
+GANG SHAR TOK PAY NGO WO SO MA DE MA CHÖ DE KAR     扛夏 ⾖贝 哦窝 梭玛喋 玛决 喋噶 久贝 拱千拉
+GOM JA LO DANG DRAL WAR JIN GYI LOB  NAM TOK NGO    拱甲 洛倘 札哇 勤吉洛 南⾖ 哦窝 却固 松巴⾏
+CHI YANG MA YIN CHIR YANG CHAR WA LA       MA GA    记扬 玛吟 记扬 恰哇拉 玛噶 若巴 恰威 拱千拉
+KHOR DE YER ME TOK PAR JIN GYI LOB KYE WA KUN TU    扩喋 耶没 ⾖巴 勤吉洛 给哇 衮读 扬达 喇嘛倘
+DRAL ME CHÖ KYI PAL LA LONG CHÖ CHING   SA DANG     札昧 却记 巴拉 隆诀京 萨倘 朗吉 元滇 拉昨内
+DORJE CHANG GI GO PANG NYUR TOB SHOK                多杰 羌吉 果庞 纽透修
+NAMO GOUROU SHA KYA MOU NA YÉ ! NAMO GURU ŚHĀ     南摩沽如夏嘉⽬拿耶
+SANG GYE CHÖ DANG TSOK KYI CHOK NAM LA   JANG CH    桑杰 确倘 措记 秋南啦 强秋 琶笃 达尼 迦素企
+DAK GYI JIN SOK GYI PAY SO NAM KYI DRO LA PHEN C    達格謹搜吉⾙⾊南吉 卓啦遍企桑杰⽵巴修
+SEM CHEN THAM CHE DE WA DANG DE WAI GYU DANG DEN    森间汤界 喋哇倘 喋威局倘 滇巴久记
+DUG NGEL DANG DUG NGEL GYI GYU DANG DREL WAR GYU    笃雅倘 笃雅吉局倘 哲哇久记
+DUG NGEL ME PAY DE WA DAM PA DANG MI DREL WAR GY    笃雅梅悲 喋哇倘巴倘 ⽶哲⽡久记
+NYE RING CHAG DANG NYI DANG DREL WAY TANG NYOM C    涅仁洽汤 尼倘哲威 当纽千波喇 内巴久记
+AH, KYE MÉ TONG PA NYI DANG TEN JUNG GI NANG WA     阿 杰美东巴涅当定炯格 囊⽡嘎美荣久杰美策
+RANG DÜN NAM KHAR CHÖ TRIN GYA TSÖ Ü RIN CHEN SE    让登南夸秋珍嘉促卫 仁钦桑彻巴涅达沃当
+TÖN PA TSUNG MÉ SHA KYA SEN GÉ NI SER GYI DOK CH    敦巴聪美夏迦桑给呢 ⾊杰多坚灿当慧夏丹
+CHÖ GÖ SUM SOL DOR JÉ KIL TRUNG SHUK   CHA YÉ SA    秋固森索多吉杰仲尤 ⾹益萨伦⾹嘉拉江⾹
+CHA YÖN NYAM SHAK DÜ TSI LHUNG SHÉ NAM  SER GYI     ⾹云年雅德贼隆瑞南 ⾊杰热达热杰华巴⽡
+YE SHE Ö ZER DRA WÉ KHA YING KHYAB  NYE WÉ SÉ GY    耶西哦瑞扎卫夸样恰 涅沃这嘉内丹杰珠索
+PHAK TSOK GYA TSÖ KHOR GYI YONG KOR SHYING    DR    帕措嘉促括吉永果样 占巴赞吉哲益塔尼类
+NAM DROL DE WA CHOK GI PAL TSOL WA  KYAB KÜN DÜ     南卓得⽡巧格华作⽡ 嘉根第波达涅钦波萨
+NYING JÉ CHEN PÖ TSÖ DEN NYIK MÉ SHYING ZUNG NÉ     酿杰钦布作丹涅美样 荣内门兰钦波阿嘉达
+PE KAR TAR NGAK TSEN TÖ CHIR MI DOK TÖN PA TUK J    巴嘎达阿灿图协么多 敦巴特杰坚拉⾹擦洛
+DAK SHYEN GO SUM GÉ TSOK LONG CHÖ CHÉ    KUN ZAN    达严果森给措隆秀具 根让秋波珍德么内波
+TOK MÉ NÉ SAK DIK TUNG MA LÜ PA NYING NÉ GYÖ PA     托美内萨德东玛利巴 酿内久巴扎布索索夏
+PAK DANG SO SÖ KYE WÖ GE WA NI DÜ SUM SAK LA JE     帕当索苏杰悟给⽡呢 第森萨拉吉⾊耶让哦
+ZAB CHING GYA CHÉ CHÖ KYI KHOR LÖ TSUL  CHOK CHU    撒江嘉切秋杰括路策 秀杰晋么恰巴果德索
+KHYÖ NI NAMKHA TABÜ YESHE KU DÜ SUM POGYUR MEPAR    切呢南夸达卫耶西格 第森颇杰美巴尤莫杰
+DUL JÉ NANG NGOR KYÉ JIK TSUL TÖN KYANG  TRUL PÉ    德旭囊哦杰杰策敦江 哲波热格达德囊⽡作
+DAK GI DÜ SUM SAK PÉ GÉ TSOK KYI KHA KHYAB DRO W    达给第森萨波给措吉 夸恰卓⽡根拉攀拉德
+CHÖ KYI GYAL PO TAK TU NYÉ JÉ CHING  CHÖ JÉ GYAL    秋杰嘉波达德尼协江 秋杰嘉沃果庞托巴秀
+DAK CHAK NYIK MÉ DRO WA GÖN MÉ NAM    TUK JÉ LHA    达嘉涅美卓⽡衮美南 特吉拉巴荣沃⽠珍类
+SHYING DANG DÜ DIR RIN CHEN NAM SUM GYI  NANG WA    样当第德仁钦南森杰 囊⽡杰涅秋杰陈类涅
+DE CHIR KYAB CHOK TSUNG MÉ CHIK PU RU   YI CHÉ D    得协嘉巧聪美吉波热 耶齐达贝酿内索得那
+NGÖN GYI DAM CHA CHEN PO MA NYEL WAR   CHANG CHU    温杰丹嘉钦波玛涅⽡ ⾹确⽡德特吉吉怎作
+LAMA TÖN PA CHOM DEN DÉ/  DE SHYIN SHEK PA/  DRA    喇嘛敦巴 炯丹第 得印夏巴 扎炯巴 样达巴 作波桑吉 华嘉⽡ 夏迦特巴拉 ⾹擦洛 秋多嘉森切哦 达雅塔 嗡牟尼牟尼玛哈牟呐耶索哈 嗡牟尼牟尼玛哈牟呐耶索哈
+TÖN PÉ KU LÉ/  YE SHE KYI Ö ZER/  NA TSOK PÉ/  N    敦波格类 耶西杰 哦瑞那措波 囊⽡钦布 达当森 坚檀嘉杰 哲巴檀嘉萨样
+TEK PA CHEN PÖ/  LAM GYI YÖN TEN/   TSUL SHYIN D    特巴钦布 兰杰 云丹 策印德吉得 协么多波萨伦巴 久
+DE SHEK SÉ CHÉ KÜN GYI TUK KYÉ DANG DZE PA MÖN L    得夏⾊杰昆格图杰当 则巴盟琅肯则⼥贝措
+LA MÉ YE SHE GYU TRUL CHI DRA WA DE DRA KHO NAR     喇美耶些久促其札⽡ 得扎括那达索杰⽡秀
+PRIÈRE DE LONGUE VIE POUR SA SAINTETÉ LE DALAÏ L    達賴尊者⾧壽祈請⽂
+GANG RE RA WE KOR WAI ZHING KHAM DIR PEN DANG DE    康⽇惹威果威星康迪 ⽚堂碟⽡瑪呂炯威内
+CHEN RE ZIG WANG TEN DZIN GYA TSO YI SHAB PE SI     堅瑞希王殿津嘉措宜 夏⾙希推帕突典具吉
+PRIÈRE POUR LA LONGUE VIE DE SA SAINTETÉ LE KARM    尊胜噶玛巴长寿祈请⽂
+GYAL KUN NYING JE'I RANG ZUK KAR MA PA      GYAL    给衮宁杰攘⽵噶玛巴 给衮真雷记度噶玛巴
+GYAL KUN DUNG TSOB WANG KUR KAR MA PA OR GYEN DR    给衮度措旺固噶玛巴 哦坚卓度真雷夏滇梭
+PRIÈRE DE LONGUE VIE POUR SON ÉMINENCE TAÏ SITU     尊者⼤司徒仁波切长寿祈请⽂
+PE MAY GYAL TSAB TEN DANG DRO WAY GON   MA ONG S    培美给擦滇倘卓威贡 玛嗡桑杰给擦玛发巴
+TA YI SI TU PE MA DON YO KYI SHAB PE TEN CHING D    达宜⼣独培玛洞元记 夏佩滇京哲真杰久记
+PRIÈRE DE LONGUE VIE POUR SON ÉMINENCE JAMGON KO    尊者蒋贡康楚仁波切长寿祈请⽂
+TA YE MIK MAY TSE WAY TER CHEN PO NAM PAR NANG D    他耶弥美测威喋千波 南巴囊哲⽇卓处贝固
+JAM GON LO DRO CHO KYI NYI MA YI SHAB PE TEN CHI    强贡洛卓却记尼玛宜 夏培滇京则贞杰久记
+PRIÈRE DE LONGUE VIE POUR LE QUATRIÈME JAMGON KO    第四世蒋贡康楚仁波切长寿祈请⽂ 名为 不变⽢露之短歌
+OM DE LEK SU GYUR CHIK                              嗡 得雷苏久记
+GYAL WAY WANG PO PAL DEN KAR MA PAY SANG SUM TRI    给威旺波巴滇噶玛贝 桑松真雷杰波每久哇
+JAM GON LO DRO CHO KYI NYI MA YI ZHAB PE TEN CHI    强贡洛卓却记尼玛宜 札培滇京哲贞杰久记
+CHOK CHU DU SUM GYAL WAI TUK KYE DANG CHO NYI NA    措秋度松给威度耶倘 却尼南巴达培滇多记
+NAM DAK MON PAY DEN TSIK JI SHIN DU CHOK GYI TRU    南达盟贝滇次吉⾏度 措吉处固札培滇久记
+PRIÈRE DE LONGUE VIE POUR SON ÉMINENCE GYALTSAB     尊者嘉察仁波切长寿祈祷⽂
+SI DAND ZHI WAY PAL GYI TSE MO LE PHUL JUNG SANG    ⼣倘⾃威巴吉册昧雷 噗久桑威达波南处巧
+GYAL TSAB DRAK PA MIN GYUR GO CHA YI   SHAB PE T    给擦札巴明久拱恰宜 夏培滇京哲珍杰久记
+PRIÈRE POUR LA LONGUE VIE DE KARMAPA ET SES FILS    噶舉上師⾧壽祈請⽂
+DE CHEN TSOK KYI KHOR LO TAK ROL PA DU SUM GYAL     碟千措吉擴樓⼤柔哇 度松交為碟谦噶瑪巴
+YAP SE GYU PAR CHE PAY SI TSO DIR KAL PA KAL PAY    雅虽巨巴皆巴西湊地 ⾼巴⾼⾙巴度夏典叟
+GANG GYI ZAP SANG SUNG GYI SANG WA LA THO SAM DR    康給薩桑松各桑哇拉 特三住巴寧柏切巴以
+PONG DANG LOK PAY DE NAM THAM CHE NI YAR GYI CHU    崩當樓⾙碟南坦傑尼 雅吉曲沃⼤布給巨吉 上師⾧壽祈請⽂
+LAMA KU KHAM ZANG WAR SOL WA DEP CHOK TU KU TSE     喇嘛故康桑哇叟哇碟 秋度故翠玲拉叟哇碟
+TRIN LE DAR ZHING GYE LA SOL WA DEP LA MA DANG D    欽雷塔⾏給拉叟哇碟 喇嘛當昭哇美巴欽吉樓
+PAL DEN LA MA ZHAP PE TEN PA DANG KHA NYAM YONG     包典拉美夏⾙典巴當 卡娘永拉碟吉炯哇當
+DAK ZHEN MA LU TSOK SAK DRIP JANG NE   NYUR DU S    ⼤現瑪陸措薩之將內 紐度桑給薩拉各巴修 回向⽂
+JAM PAL PA WO JI TAR KHEN PA DANG KUN TU ZANG PO    江包巴我其⼤千巴當 棍度桑博帖揚帖欣喋
+DE DAK KUN GYI JE SU DAK LOP CHING GE WA DI DAK     帖⼤棍吉傑速達樓淨 給哇迪⼤坦界惹度諾
+SAN GYE KU SUM NYE PAY JIN LAP DANG CHO NYI MIN     桑給固松涅⾙欽拉當 確尼⽶巨滇⾙欽拉當
+GYEN DUN MI CHE DUN PAY JIN LAP KYI JI TAR NGO W    給敦⽶切敦⾙欽拉吉 其⼤諾哇⾨朗⽵巨吉
+SÖ NAM DI YI TAM CHE ZIK PA NYI TOB NE NYE PAY D    索南迪宜汤界息巴尼 透内涅贝札南潘且内
+KYE GA NA CHI BA LAP TRUK PA YI SI PAY TSO LE DR    界噶拿企巴拉处巴宜 ⼣贝措雷卓哇卓哇修
+DU ZHI LE GYAL GYAL WAY TRIN LE PA KAR MA PA TEN    度西雷交交為欽雷巴 噶瑪巴典典⾙寧柏第
+COK THAR KUN KHAP KHAP CHING GYUN MI CHE   TAK P    秋塔滾恰恰京均⽶切 ⼤巴惹佩佩為扎西修 发愿⽂
+JANG CHUB SEM CHOK RIN PO CHE MA KYE PA NAM KYE     ⾹确森巧仁波切 玛吉巴南杰杰吉
+KYE PA NYAM PA MAY PA DANG GONG NE GONG DU PHEL     吉巴年巴美巴倘 贡内贡德佩⽡秀 吉祥偈
+MI GYUR LHÜN PO KU YI TASHI SHOG YEN LAG DRUG CH    ⽶久 混波 固宜 札西修 耶喇 ⽵久 孙吉 札西修
+THA DREL DRI ME THUG KI TASHI SHOG   GYAL WAY KU    踏杰 初美 突吉 札西修 给维 固松 突吉 札西修

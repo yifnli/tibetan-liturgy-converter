@@ -80,7 +80,11 @@ def is_cjk_text(text: str) -> bool:
     return any(_contains_codepoints_in_range(text, r) for r in CJK_UNICODE_RANGES)
 
 LEGACY_FONT_SYMBOL_DENSITY_THRESHOLD = 0.15  # tune against real samples below
-LEGACY_FONT_SYMBOL_PATTERN = re.compile(r"[^A-Za-z0-9\s]")
+# Matches characters that look "unusual" for plain Latin prose — but excludes
+# accented Latin letters (U+00C0–U+024F Latin Extended, U+1E00–U+1EFF Latin
+# Extended Additional) which are legitimate in French/German/etc. text and
+# must NOT be counted as legacy-font Tibetan glyph artifacts.
+LEGACY_FONT_SYMBOL_PATTERN = re.compile(r"[^A-Za-z0-9\s\u00C0-\u024F\u1E00-\u1EFF]")
 
 def classify_span(span: dict) -> str:
     """Given a PyMuPDF span dict (from page.get_text('dict')), returns one
@@ -127,8 +131,20 @@ def classify_document(pdf_path: str) -> dict:
                     spans.append({
                         "text": span.get("text") or "",
                         "font": span.get("font", ""),
+                        "size": round(span.get("size", 0), 2),
                         "bbox": span.get("bbox"),
                         "classification": classify_span(span),
                     })
         pages.append({"geometry": geometry, "spans": spans})
-    return {"pages": pages}
+
+    # Determine document-level format from all classified spans.
+    # TIBETAN_UNICODE takes priority; fall back to LEGACY_FONT_TEXT; then UNKNOWN.
+    all_classes = {s["classification"] for p in pages for s in p["spans"]}
+    if "TIBETAN_UNICODE" in all_classes:
+        doc_format = "UNICODE_TEXT"
+    elif "TIBETAN_LEGACY_FONT" in all_classes:
+        doc_format = "LEGACY_FONT_TEXT"
+    else:
+        doc_format = "UNKNOWN"
+
+    return {"format": doc_format, "pages": pages}
