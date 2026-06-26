@@ -14,13 +14,17 @@ Valid requested_layers values: "wylie", "mandarin_homophonic".
 Output shape is identical to resolve_translation_layers:
   {"layers": dict, "gaps": list[dict]}
 
-Gap record shape (identical to Stage 4 — four keys):
+Gap record shape:
   {
     "layer":     str,
     "source":    str | None,
     "verse_ref": {"page_index": int, "verse_index": int},
     "status":    "needs_generation" | "no_source_available" | "novel_needs_review",
+    # only present when status == "novel_needs_review":
+    "unresolved_tokens": list[str],
   }
+
+For all other statuses the dict has four keys (identical to Stage 4).
 
 Three valid status values (Stage 4 + Stage 5 combined):
   "needs_generation"    — a source text exists; an LLM or translator can derive the layer
@@ -311,10 +315,12 @@ def resolve_homophonic_layers(
                     if novel:
                         # Unrecognised syllables — human must author mapping.
                         layers["mandarin_homophonic"] = None
-                        gaps.append(_make_gap_record(
+                        gap = _make_gap_record(
                             "mandarin_homophonic", "wylie", verse_unit,
                             "novel_needs_review",
-                        ))
+                        )
+                        gap["unresolved_tokens"] = novel
+                        gaps.append(gap)
                     else:
                         # All tokens resolved — assemble and return.
                         layers["mandarin_homophonic"] = " ".join(

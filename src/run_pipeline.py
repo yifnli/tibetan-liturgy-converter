@@ -61,12 +61,34 @@ _DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data
 
 
 def _load_table(filename: str) -> dict:
-    """Load a JSON lookup table from data/. Return empty dict if absent."""
+    """Load a JSON lookup table from data/ and convert to keyed dict.
+
+    The JSON files store entries as arrays of objects with "wylie", "zh",
+    and "source" fields.  This function converts them to the dict[str, dict]
+    shape expected by resolve_homophonic_layers:
+        {"WYLIE KEY": {"zh": "...", "source": "..."}, ...}
+
+    Returns an empty dict (with a stderr warning) if the file is absent,
+    empty, or malformed rather than raising.
+    """
     path = os.path.join(_DATA_DIR, filename)
-    if os.path.exists(path):
+    if not os.path.exists(path):
+        return {}
+    try:
         with open(path, encoding="utf-8") as fh:
-            return json.load(fh)
-    return {}
+            entries = json.load(fh)
+        if not entries:
+            return {}
+        return {
+            entry["wylie"]: {"zh": entry["zh"], "source": entry["source"]}
+            for entry in entries
+        }
+    except Exception as exc:
+        print(
+            f"WARNING: could not load lookup table {filename!r}: {exc}",
+            file=sys.stderr,
+        )
+        return {}
 
 
 def run(

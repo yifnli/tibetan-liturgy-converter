@@ -199,6 +199,7 @@ def test_resolve_homophonic_novel_token_produces_novel_gap():
     assert gap["layer"] == "mandarin_homophonic"
     assert gap["source"] == "wylie"
     assert gap["status"] == "novel_needs_review"
+    assert gap["unresolved_tokens"] == ["UNRECOGNISED_SYLLABLE"]
 
 
 def test_resolve_homophonic_wylie_none_mandarin_none_no_source_gap():
@@ -254,3 +255,4 @@ def test_resolve_homophonic_gap_verse_ref_correct():
         novel_verse, _VU_MB, {"mandarin_homophonic"}, {}, {}
     )
     assert result["gaps"][0]["verse_ref"] == {"page_index": 1, "verse_index": 0}
+    assert result["gaps"][0]["unresolved_tokens"] == ["NOVEL_TOKEN"]
