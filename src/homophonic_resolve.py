@@ -103,11 +103,27 @@ def _tokenize_wylie(wylie: str) -> list[str]:
     line).  Normalising double-space to single space before splitting
     ensures no empty token is produced in the middle of the token list.
 
-    Returns a list of non-empty token strings.  Casing is not altered —
-    Wylie strings extracted from source PDFs are already uppercase.
+    Each raw token is then processed as follows:
+      1. Trailing punctuation characters (.,!?;:) are stripped.  This
+         collapses variants like ``'Namo.'`` and ``'NAMO'`` to the same key.
+      2. The result is uppercased so that ``'Maha'`` and ``'MAHA'`` resolve
+         to the same lookup key.
+      3. Tokens that become empty after stripping are discarded (e.g. a
+         bare ``'!'`` disappears entirely).
+
+    Apostrophe-contracted Wylie forms (e.g. ``RI'I``, ``JE'I``) are treated
+    as atomic tokens; the apostrophe is never split on.  A lookup-table entry
+    for such a form is valid and should use the contracted spelling as its key.
+
+    Returns a list of non-empty, uppercased token strings.
     """
     normalized = wylie.replace("  ", " ")
-    return [t for t in normalized.split(" ") if t]
+    tokens = []
+    for t in normalized.split(" "):
+        t = t.rstrip(".,!?;:").upper()
+        if t:
+            tokens.append(t)
+    return tokens
 
 
 # ── Function 2 ─────────────────────────────────────────────────────────────

@@ -68,6 +68,20 @@ def test_tokenize_wylie_whitespace_only_returns_empty_list():
     assert _tokenize_wylie("   ") == []
 
 
+def test_tokenize_wylie_strips_trailing_punct_and_uppercases():
+    # Mixed-case tokens and trailing punctuation must collapse to uppercase
+    # clean forms.  A bare '!' must disappear (strips to empty, then filtered).
+    result = _tokenize_wylie("Namo. Maha BEKENDZE !")
+    assert result == ["NAMO", "MAHA", "BEKENDZE"]
+
+
+def test_tokenize_wylie_apostrophe_contracted_forms_preserved():
+    # RI'I and JE'I are legitimate Wylie genitive contractions; the apostrophe
+    # is mid-token and must not be stripped or split on.
+    result = _tokenize_wylie("RI'I JE'I")
+    assert result == ["RI'I", "JE'I"]
+
+
 # ── Tests 5–8: _lookup_wylie_tokens ──────────────────────────────────────────
 
 def test_lookup_wylie_tokens_full_rd_verse_all_found():
